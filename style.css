@@ -1146,3 +1146,1608 @@
     line-height: normal;
     white-space: nowrap;
   }
+
+  .servios {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .servios .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1499px;
+    position: relative;
+  }
+  
+  .servios .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .nav-bar {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .servios .div-wrapper {
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    top: 55px;
+    left: 534px;
+  }
+  
+  .servios .text-wrapper {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #fa94ce;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .sobre-ns {
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    top: 55px;
+    left: 662px;
+  }
+  
+  .servios .ouvidoria {
+    position: absolute;
+    width: 76px;
+    height: 19px;
+    top: 55px;
+    left: 803px;
+  }
+  
+  .servios .LOGO {
+    position: absolute;
+    width: 113px;
+    height: 87px;
+    top: 21px;
+    left: 100px;
+  }
+  
+  .servios .overlap-group {
+    position: relative;
+    width: 111px;
+    height: 87px;
+  }
+  
+  .servios .logotipo-CPNE {
+    position: absolute;
+    width: 98px;
+    height: 87px;
+    top: 0;
+    left: 6px;
+  }
+  
+  .servios .text-wrapper-2 {
+    color: #fa94ce;
+    position: absolute;
+    width: 111px;
+    top: 72px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 2.97px;
+    line-height: 9px;
+    white-space: nowrap;
+  }
+  
+  .servios .pgina-inicial-wrapper {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 45px;
+    left: 347px;
+    background-color: #d9d9d980;
+    border-radius: 16px;
+  }
+  
+  .servios .pgina-inicial {
+    position: relative;
+    width: 102px;
+    height: 19px;
+    top: 10px;
+    left: 25px;
+  }
+  
+  .servios .barra-de-pesquisa {
+    display: flex;
+    width: 202px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    padding: 14.07px 30px 14.07px 43px;
+    position: absolute;
+    top: 41px;
+    left: 1133px;
+    background-color: #fa94ce;
+    border-radius: 31.98px;
+  }
+  
+  .servios .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -4.21px;
+    margin-bottom: -2.93px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .arrow-down {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -6.07px;
+    margin-bottom: -6.07px;
+  }
+  
+  .servios .overlap-2 {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 45px;
+    left: 491px;
+    border-radius: 16px;
+  }
+  
+  .servios .div-wrapper-2 {
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    top: 10px;
+    left: 43px;
+  }
+  
+  .servios .text-wrapper-4 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #d93769;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .rectangle {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 0;
+    left: 0;
+    background-color: #eab1b76e;
+    border-radius: 16px;
+  }
+  
+  .servios .text-wrapper-5 {
+    color: #eab1b7;
+    position: absolute;
+    width: 111px;
+    top: 72px;
+    left: 0;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 9px;
+    text-align: center;
+    letter-spacing: 2.97px;
+    line-height: 9px;
+    white-space: nowrap;
+  }
+  
+  .servios .pgina-inicial-2 {
+    position: absolute;
+    width: 102px;
+    height: 19px;
+    top: 55px;
+    left: 372px;
+  }
+  
+  .servios .barra-de-pesquisa-2 {
+    width: 202px;
+    padding: 14.07px 30px 14.07px 43px;
+    top: 41px;
+    left: 1137px;
+    background-color: #d93769;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    border-radius: 31.98px;
+  }
+  
+  .servios .boto-segurana {
+    width: 341px;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 45px 85px;
+    position: absolute;
+    top: 245px;
+    left: 554px;
+    display: flex;
+    height: 155px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .shield {
+    position: relative;
+    width: 57px;
+    height: 57px;
+    margin-left: -2.5px;
+  }
+  
+  .servios .text-wrapper-6 {
+    position: relative;
+    width: fit-content;
+    margin-right: -2.5px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d93769;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .overlap-3 {
+    position: absolute;
+    width: 341px;
+    height: 155px;
+    top: 435px;
+    left: 166px;
+    border-radius: 20px;
+  }
+  
+  .servios .boto-ouvidoria {
+    width: 341px;
+    align-items: center;
+    gap: 18px;
+    padding: 58px 105px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    height: 155px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .img {
+    position: relative;
+    width: 38px;
+    height: 38px;
+  }
+  
+  .servios .text-wrapper-7 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #fa94ce;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .boto-ouvidoria-2 {
+    display: flex;
+    width: 341px;
+    height: 155px;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    padding: 45px 85px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .img-2 {
+    position: relative;
+    width: 58px;
+    height: 58px;
+  }
+  
+  .servios .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d93769;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .overlap-4 {
+    position: absolute;
+    width: 341px;
+    height: 155px;
+    top: 636px;
+    left: 166px;
+    border-radius: 20px;
+  }
+  
+  .servios .briefcase {
+    position: relative;
+    width: 58px;
+    height: 58px;
+    margin-left: -33px;
+  }
+  
+  .servios .text-wrapper-9 {
+    position: relative;
+    width: fit-content;
+    margin-right: -33px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d93769;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .overlap-5 {
+    position: absolute;
+    width: 341px;
+    height: 155px;
+    top: 435px;
+    left: 554px;
+    border-radius: 20px;
+  }
+  
+  .servios .boto-cultura-e-arte {
+    display: flex;
+    width: 341px;
+    height: 155px;
+    align-items: center;
+    gap: 16px;
+    padding: 56px 77px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .masks {
+    position: relative;
+    width: 38px;
+    height: 38px;
+    object-fit: cover;
+  }
+  
+  .servios .boto-cultura-e-arte-2 {
+    display: flex;
+    width: 341px;
+    height: 155px;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    padding: 45px 85px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .masks-2 {
+    position: relative;
+    width: 58px;
+    height: 58px;
+    margin-left: -5px;
+    object-fit: cover;
+  }
+  
+  .servios .text-wrapper-10 {
+    margin-right: -5px;
+    color: #d93769;
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .overlap-6 {
+    position: absolute;
+    width: 341px;
+    height: 155px;
+    top: 435px;
+    left: 942px;
+    border-radius: 20px;
+  }
+  
+  .servios .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d93769;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .overlap-7 {
+    position: absolute;
+    width: 361px;
+    height: 175px;
+    top: 235px;
+    left: 156px;
+  }
+  
+  .servios .frame {
+    display: flex;
+    flex-direction: column;
+    width: 361px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .boto-sade {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 54px 116px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    display: flex;
+    height: 155px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .frame-2 {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .servios .goodrx-svgrepo-com {
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .servios .boto-sade-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 361px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 155px;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 45px 85px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .frame-3 {
+    display: flex;
+    width: 139px;
+    height: 58px;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+  }
+  
+  .servios .overlap-8 {
+    position: absolute;
+    width: 341px;
+    height: 155px;
+    top: 239px;
+    left: 942px;
+    border-radius: 20px;
+  }
+  
+  .servios .boto-denncia {
+    width: 341px;
+    align-items: center;
+    gap: 20px;
+    padding: 55px 105px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    height: 155px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .boto-denncia-2 {
+    display: flex;
+    width: 341px;
+    height: 155px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 45px 85px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #a6a4a4;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .servios .overlap-9 {
+    position: absolute;
+    width: 218px;
+    height: 29px;
+    top: 168px;
+    left: 611px;
+  }
+  
+  .servios .text-wrapper-12 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #fa94ce;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .text-wrapper-13 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #d93769;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .overlap-10 {
+    position: absolute;
+    width: 1442px;
+    height: 243px;
+    top: 1256px;
+    left: 0;
+  }
+  
+  .servios .rodap {
+    position: absolute;
+    width: 1442px;
+    height: 243px;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .overlap-11 {
+    position: absolute;
+    width: 1440px;
+    height: 203px;
+    top: 0;
+    left: 0;
+    background-color: #fa94ce;
+  }
+  
+  .servios .frame-4 {
+    display: flex;
+    flex-direction: column;
+    width: 161px;
+    align-items: flex-start;
+    gap: 11px;
+    position: absolute;
+    top: 47px;
+    left: 315px;
+  }
+  
+  .servios .text-wrapper-14 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .text-wrapper-15 {
+    position: relative;
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .text-wrapper-16 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .frame-5 {
+    display: flex;
+    flex-direction: column;
+    width: 199px;
+    align-items: flex-start;
+    gap: 11px;
+    position: absolute;
+    top: 47px;
+    left: 526px;
+  }
+  
+  .servios .text-wrapper-17 {
+    position: relative;
+    width: 179px;
+    margin-top: -1px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .group {
+    position: absolute;
+    width: 141px;
+    height: 109px;
+    top: 48px;
+    left: 85px;
+  }
+  
+  .servios .overlap-group-2 {
+    position: relative;
+    width: 139px;
+    height: 109px;
+  }
+  
+  .servios .logotipo-CPNE-2 {
+    position: absolute;
+    width: 123px;
+    height: 109px;
+    top: 0;
+    left: 8px;
+  }
+  
+  .servios .text-wrapper-18 {
+    position: absolute;
+    width: 139px;
+    top: 90px;
+    left: 0;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 11.3px;
+    text-align: center;
+    letter-spacing: 3.72px;
+    line-height: 11.3px;
+    white-space: nowrap;
+  }
+  
+  .servios .govpergb {
+    position: absolute;
+    width: 233px;
+    height: 104px;
+    top: 48px;
+    left: 1107px;
+    object-fit: cover;
+  }
+  
+  .servios .p {
+    position: absolute;
+    top: 211px;
+    left: 321px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #a6a4a4;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .overlap-12 {
+    position: absolute;
+    width: 1440px;
+    height: 203px;
+    top: 0;
+    left: 0;
+    background-color: #eab1b7;
+  }
+  
+  .servios .overlap-13 {
+    position: absolute;
+    width: 1444px;
+    height: 418px;
+    top: 838px;
+    left: 0;
+  }
+  
+  .servios .VOC-NO-EST-SOZINHA {
+    position: absolute;
+    width: 1440px;
+    height: 203px;
+    top: 0;
+    left: 0;
+    background: linear-gradient(180deg, rgb(250, 148, 206) 0%, rgb(233.38, 93.35, 179.39) 100%);
+  }
+  
+  .servios .group-2 {
+    position: relative;
+    width: 869px;
+    height: 114px;
+    top: 44px;
+    left: 286px;
+  }
+  
+  .servios .text-wrapper-19 {
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .group-3 {
+    position: absolute;
+    width: 873px;
+    height: 58px;
+    top: 56px;
+    left: 0;
+  }
+  
+  .servios .element-central-de {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .element-pol-cia-militar {
+    position: absolute;
+    top: 0;
+    left: 441px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .element-disque {
+    position: absolute;
+    top: 0;
+    left: 653px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .FALE-COM-o-GOVERNO {
+    position: absolute;
+    width: 1444px;
+    height: 217px;
+    top: 201px;
+    left: 0;
+  }
+  
+  .servios .overlap-14 {
+    position: relative;
+    width: 1440px;
+    height: 217px;
+    background-color: #ffffff;
+  }
+  
+  .servios .group-4 {
+    position: absolute;
+    width: 514px;
+    height: 40px;
+    top: 130px;
+    left: 463px;
+  }
+  
+  .servios .barra-de-pesquisa-3 {
+    width: 182px;
+    padding: 14.07px 30px;
+    top: 0;
+    left: 0;
+    background-color: #fa94ce;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    border-radius: 31.98px;
+  }
+  
+  .servios .barra-de-pesquisa-4 {
+    width: 273px;
+    padding: 14.07px 30px 14.07px 43px;
+    top: 0;
+    left: 241px;
+    background-color: #fa94ce;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    border-radius: 31.98px;
+  }
+  
+  .servios .text-wrapper-20 {
+    position: relative;
+    width: fit-content;
+    margin-top: -4.21px;
+    margin-bottom: -2.93px;
+    margin-left: -10.5px;
+    margin-right: -10.5px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .text-wrapper-21 {
+    color: #fa94ce;
+    position: absolute;
+    top: 49px;
+    left: 537px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .text-wrapper-22 {
+    position: absolute;
+    top: 88px;
+    left: 578px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #fa94ce;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .servios .group-wrapper {
+    width: 1440px;
+    height: 203px;
+    background: linear-gradient(180deg, rgb(234, 177, 183) 0%, rgb(217, 55, 105) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .servios .text-wrapper-23 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #f8eee4;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .element-central-de-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #f8eee4;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .element-pol-cia-militar-2 {
+    position: absolute;
+    top: 0;
+    left: 441px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #f8eee4;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .element-disque-2 {
+    position: absolute;
+    top: 0;
+    left: 653px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #f8eee4;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .barra-de-pesquisa-5 {
+    width: 182px;
+    padding: 14.07px 30px;
+    top: 0;
+    left: 0;
+    background-color: #d93769;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    border-radius: 31.98px;
+  }
+  
+  .servios .barra-de-pesquisa-6 {
+    width: 273px;
+    padding: 14.07px 30px 14.07px 43px;
+    top: 0;
+    left: 241px;
+    background-color: #d93769;
+    display: flex;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    position: absolute;
+    border-radius: 31.98px;
+  }
+  
+  .servios .text-wrapper-24 {
+    color: #d93769;
+    position: absolute;
+    top: 49px;
+    left: 537px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .servios .text-wrapper-25 {
+    position: absolute;
+    top: 88px;
+    left: 578px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d93769;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .sobre-ns {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .sobre-ns .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 933px;
+    position: relative;
+  }
+  
+  .sobre-ns .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sobre-ns .nav-bar {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .sobre-ns .servios {
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    top: 55px;
+    left: 534px;
+  }
+  
+  .sobre-ns .text-wrapper {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    color: #fa94ce;
+    text-align: center;
+    white-space: nowrap;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .div-wrapper {
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    top: 55px;
+    left: 662px;
+  }
+  
+  .sobre-ns .ouvidoria {
+    position: absolute;
+    width: 76px;
+    height: 19px;
+    top: 55px;
+    left: 803px;
+  }
+  
+  .sobre-ns .LOGO {
+    position: absolute;
+    width: 113px;
+    height: 87px;
+    top: 21px;
+    left: 100px;
+  }
+  
+  .sobre-ns .overlap-group {
+    position: relative;
+    width: 111px;
+    height: 87px;
+  }
+  
+  .sobre-ns .logotipo-CPNE {
+    position: absolute;
+    width: 98px;
+    height: 87px;
+    top: 0;
+    left: 6px;
+  }
+  
+  .sobre-ns .text-wrapper-2 {
+    position: absolute;
+    width: 111px;
+    top: 72px;
+    left: 0;
+    color: #fa94ce;
+    font-size: 9px;
+    letter-spacing: 2.97px;
+    line-height: 9px;
+    white-space: nowrap;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .sobre-ns .pgina-inicial-wrapper {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 45px;
+    left: 347px;
+    background-color: #d9d9d980;
+    border-radius: 16px;
+  }
+  
+  .sobre-ns .pgina-inicial {
+    position: relative;
+    width: 102px;
+    height: 19px;
+    top: 10px;
+    left: 25px;
+  }
+  
+  .sobre-ns .barra-de-pesquisa {
+    display: flex;
+    width: 202px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    padding: 14.07px 30px 14.07px 43px;
+    position: absolute;
+    top: 41px;
+    left: 1133px;
+    background-color: #fa94ce;
+    border-radius: 31.98px;
+  }
+  
+  .sobre-ns .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -4.21px;
+    margin-bottom: -2.93px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .sobre-ns .arrow-down {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    margin-top: -6.07px;
+    margin-bottom: -6.07px;
+  }
+  
+  .sobre-ns .text-wrapper-4 {
+    position: absolute;
+    top: -1px;
+    left: 0;
+    color: #d93769;
+    text-align: center;
+    white-space: nowrap;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .overlap-2 {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 45px;
+    left: 627px;
+    border-radius: 16px;
+  }
+  
+  .sobre-ns .div-wrapper-2 {
+    position: absolute;
+    width: 81px;
+    height: 19px;
+    top: 10px;
+    left: 35px;
+  }
+  
+  .sobre-ns .rectangle {
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 0;
+    left: 0;
+    background-color: #eab1b76e;
+    border-radius: 16px;
+  }
+  
+  .sobre-ns .text-wrapper-5 {
+    position: absolute;
+    width: 111px;
+    top: 72px;
+    left: 0;
+    color: #eab1b7;
+    font-size: 9px;
+    letter-spacing: 2.97px;
+    line-height: 9px;
+    white-space: nowrap;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .sobre-ns .pgina-inicial-2 {
+    position: absolute;
+    width: 102px;
+    height: 19px;
+    top: 55px;
+    left: 372px;
+  }
+  
+  .sobre-ns .barra-de-pesquisa-2 {
+    display: flex;
+    width: 202px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 21px;
+    padding: 14.07px 30px 14.07px 43px;
+    position: absolute;
+    top: 41px;
+    left: 1137px;
+    background-color: #d93769;
+    border-radius: 31.98px;
+  }
+  
+  .sobre-ns .overlap-3 {
+    position: absolute;
+    width: 1442px;
+    height: 243px;
+    top: 700px;
+    left: 0;
+  }
+  
+  .sobre-ns .rodap {
+    position: absolute;
+    width: 1442px;
+    height: 243px;
+    top: 0;
+    left: 0;
+  }
+  
+  .sobre-ns .overlap-4 {
+    position: absolute;
+    width: 1440px;
+    height: 203px;
+    top: 0;
+    left: 0;
+    background-color: #fa94ce;
+  }
+  
+  .sobre-ns .frame {
+    width: 161px;
+    left: 315px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 11px;
+    position: absolute;
+    top: 47px;
+  }
+  
+  .sobre-ns .text-wrapper-6 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .text-wrapper-7 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .text-wrapper-8 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .frame-2 {
+    width: 199px;
+    left: 526px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 11px;
+    position: absolute;
+    top: 47px;
+  }
+  
+  .sobre-ns .text-wrapper-9 {
+    position: relative;
+    width: 179px;
+    margin-top: -1px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .group {
+    position: absolute;
+    width: 141px;
+    height: 109px;
+    top: 48px;
+    left: 85px;
+  }
+  
+  .sobre-ns .overlap-group-2 {
+    position: relative;
+    width: 139px;
+    height: 109px;
+  }
+  
+  .sobre-ns .img {
+    position: absolute;
+    width: 123px;
+    height: 109px;
+    top: 0;
+    left: 8px;
+  }
+  
+  .sobre-ns .text-wrapper-10 {
+    position: absolute;
+    width: 139px;
+    top: 90px;
+    left: 0;
+    font-family: "Inter-Light", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 11.3px;
+    text-align: center;
+    letter-spacing: 3.72px;
+    line-height: 11.3px;
+    white-space: nowrap;
+  }
+  
+  .sobre-ns .govpergb {
+    position: absolute;
+    width: 233px;
+    height: 104px;
+    top: 48px;
+    left: 1107px;
+    object-fit: cover;
+  }
+  
+  .sobre-ns .p {
+    position: absolute;
+    top: 211px;
+    left: 321px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #a6a4a4;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .sobre-ns .overlap-5 {
+    position: absolute;
+    width: 1440px;
+    height: 203px;
+    top: 0;
+    left: 0;
+    background-color: #eab1b7;
+  }
+  
+  .sobre-ns .overlap-6 {
+    position: absolute;
+    width: 248px;
+    height: 248px;
+    top: 339px;
+    left: 211px;
+    border-radius: 124px;
+  }
+  
+  .sobre-ns .LOGO-2 {
+    display: flex;
+    flex-direction: column;
+    width: 143px;
+    height: 127px;
+    align-items: center;
+    justify-content: center;
+    gap: 5.77px;
+    position: absolute;
+    top: 55px;
+    left: 57px;
+  }
+  
+  .sobre-ns .logotipo-CPNE-2 {
+    position: relative;
+    width: 143.2px;
+    height: 97.2px;
+    margin-left: -0.33px;
+    margin-right: -0.33px;
+  }
+  
+  .sobre-ns .text-wrapper-11 {
+    position: relative;
+    width: fit-content;
+    margin-left: -5.23px;
+    margin-right: -5.23px;
+    color: #eab1b7;
+    font-size: 13.1px;
+    letter-spacing: 4.32px;
+    line-height: 13.1px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .sobre-ns .ellipse {
+    position: absolute;
+    width: 248px;
+    height: 248px;
+    top: 0;
+    left: 0;
+    background-color: #eab1b740;
+    border-radius: 124px;
+  }
+  
+  .sobre-ns .forma {
+    position: absolute;
+    width: 1440px;
+    height: 231px;
+    top: -332px;
+    left: -720px;
+  }
+  
+  .sobre-ns .text-wrapper-12 {
+    position: absolute;
+    top: 171px;
+    left: 222px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 31px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 31px;
+  }
+  
+  .sobre-ns .text-wrapper-13 {
+    position: absolute;
+    width: 800px;
+    top: 396px;
+    left: 522px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #d93769;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 20px;
+  }
